@@ -7,6 +7,9 @@
 
 Este projeto tem como objetivo criar uma API para consultar e retornar dados de múltiplos CEPs usando a API do [ViaCEP](https://viacep.com.br/). A API deve organizar e apresentar os dados no formato especificado.
 
+Link do teste:<br>
+[https://increazy.notion.site/Teste-Desenvolvedor-backend-62b7e24e6218412cbf1ab36aef46f603](https://increazy.notion.site/Teste-Desenvolvedor-backend-62b7e24e6218412cbf1ab36aef46f603)
+
 
 O projeto foi desenvolvido em [Laravel](https://laravel.com/).
 
