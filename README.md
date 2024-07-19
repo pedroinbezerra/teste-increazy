@@ -1,6 +1,7 @@
-![increazy_light](https://github.com/user-attachments/assets/4aaafa96-72d7-4ebb-96d2-b2d3780ff30f) 
-# Teste - Desenvolvedor Backend
 
+![increazy_light](https://github.com/user-attachments/assets/7a1f50e5-bfbe-40f6-9440-2a5831f57f58)
+
+# Teste - Desenvolvedor Backend
 
 ## Descrição
 
